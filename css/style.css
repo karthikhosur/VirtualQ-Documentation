@@ -22,10 +22,10 @@ html {
 body {
   background: #ffffff;
   font-size: 18px;
-  font-family: "Abel", sans-serif;
+  font-family: Roboto, "Helvetica Neue";
   line-height: 1.8;
   font-weight: 300;
-  color: #b2b8c2;
+  color: black;
 }
 
 ::-moz-selection {
@@ -87,7 +87,7 @@ a:hover, a:focus {
 }
 
 .probootstrap-header {
-  padding-top: 100px;
+  padding-top: 25px;
   padding-bottom: 30px;
   width: 100%;
   z-index: 12;
